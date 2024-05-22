@@ -64,8 +64,8 @@ header > p{
     max-width: 500px;
     padding-right: 10px; /*esses paddings vao influenciar quando a tela tiver menor...*/
     padding-left: 10px;
-    margin: auto;
     padding-bottom: 30px; /*só da pra perceber com a janela menor*/
+    margin: auto;
     text-shadow: 2px 2px rgba(0, 0, 0, 0.404);
 }
 
